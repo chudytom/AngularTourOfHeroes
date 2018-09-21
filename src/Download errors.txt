@@ -1,0 +1,8 @@
+﻿Sorry, there was a problem downloading some files from OneDrive. Please try again.
+
+hero-detail.component.css - https://onedrive.live.com/?cid=a9430700160d7cdb&id=A9430700160D7CDB%21541784&action=Download
+
+.gitkeep - https://onedrive.live.com/?cid=a9430700160d7cdb&id=A9430700160D7CDB%21535248&action=Download
+
+
+
